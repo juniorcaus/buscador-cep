@@ -12,8 +12,8 @@ function App() {
         placeholder="Digite seu Cep..."
         />
 
-        <button className="buttonSearche">
-          <FiSearch size={25} color="#000"/>
+        <button className="buttonSearch">
+          <FiSearch size={25} color="#fff"/>
         </button>
       </div>
 
